@@ -1,0 +1,15 @@
+print(5)
+print(1222)
+print('5 +8')
+print(5*5)
+print(27/3)
+
+
+print("Primer numero")
+print(5)
+print("Segundo numero")
+print(3)
+print("Suma")
+print(5+3)
+print("Resta")
+print(5-3)
